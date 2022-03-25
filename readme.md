@@ -27,8 +27,3 @@ You should follow industry best practices and consider:
 
 Ideally at the end of this process your solution will be structured, readable and maintainable; and importantly **executable** on Windows. 
 
-
-## Finally ##
-Please ask for help if you get stuck.
-
-Good luck and try to have fun.
